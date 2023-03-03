@@ -6,6 +6,6 @@ I was curious about the statistics of my network.
 In this project, I utilized exploratory analysis and 
 data visualizations to gain insights my from my own linkedin data.
 
-##Implementation Steps
+## Implementation Steps
 This project is implement using spark and python in databricks notebook
 
