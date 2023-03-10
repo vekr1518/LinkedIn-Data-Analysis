@@ -7,5 +7,5 @@ In this project, I utilized exploratory analysis and
 data visualizations to gain insights from my own linkedin data.
 
 ## Implementation
-This project is implemented using spark and python in databricks notebook
+This project is implemented using spark framework and python in databricks.
 
